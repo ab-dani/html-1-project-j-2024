@@ -1,0 +1,70 @@
+body {
+    body {
+  width: auto;
+  margin: 5%;
+}
+
+}
+
+
+div {
+  flex-direction: column;
+  width: 20%;
+  float: left;
+  margin: 10px;
+  padding: 10px;
+  background-color: brown;
+  gap: 10px;
+}
+
+#navcars {
+
+display: flex;
+color: blue;
+flex-direction: column;
+
+
+}
+
+li {
+    list-style: none;
+    float: right;
+    justify-content: space-between;
+    margin: 10px;
+    
+
+}
+
+ul {
+    float: left;
+    
+}
+
+#Lamborghini {
+
+    float: left;
+}
+
+#Ferrai {
+    float: left;
+}
+
+#Porsche {
+    float: left;
+}
+
+#Alfa {
+    float: left;
+}
+
+#Bugatti {
+    float: left;
+}
+
+#Masarati {
+    float: left;
+}
+
+#Rolls {
+    float: left;
+}
